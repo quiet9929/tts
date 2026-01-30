@@ -1,5 +1,4 @@
-#name = "tts-voice-magic"
-name = "tts"
+name = "tts-voice-magic"
 main = "index.js"
 compatibility_date = "2024-01-15"
 compatibility_flags = ["nodejs_compat"]
@@ -29,5 +28,4 @@ name = "tts-voice-magic-staging"
 # 路由配置
 [triggers]
 crons = []
-
 
